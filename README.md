@@ -1,10 +1,16 @@
 # QuizApp
 Easily Conduct Quiz
+
 1. client side android app project - project files for android application in android studio 1.0.1
+
 2. server - php files for server 
+
 3. quiz.apk - android app generated from above project that can be installed on client mobile
+
 4. quiz.sql - create a database named 'quiz' and run this sql file to get required tables and data in database
+
 Deployment Instructions
+
 1. Server - For local deployment install a xampp server and put all the files in server folder into xampp/htdocs/quiz folder
 2. For deployment on server copy all files to public_html on server
 3. Database - import quiz.sql as above mentioned into local or remote server's database
